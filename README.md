@@ -1,4 +1,4 @@
-railsconf-2012-notes
+RailsConf 2012 Notes
 ====================
 
-Notes from RailsConf 2012
+Asynchronous notes from RailsConf 2012, because Internet is usually pretty terrible at these things.
